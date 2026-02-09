@@ -5,7 +5,7 @@ Opencast
 
 Open Source Lecture Capture & Video Management for Education
 
-Opencast is a free, open-source platform to support the management of
+Opencast is a free, open-source platform to support management of
 educational audio and video content. Institutions can use Opencast to
 produce lecture recordings, manage existing video, serve designated
 distribution channels, and provide user interfaces to engage students with
